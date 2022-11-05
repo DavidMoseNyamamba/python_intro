@@ -1,5 +1,5 @@
 # Output in python
-# The Print () function is used to display output on the screen
+# The Print () function is used to display something on the screen
 print("Hello World")
 
 # Python statements have no terminator
