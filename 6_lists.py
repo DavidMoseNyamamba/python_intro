@@ -1,6 +1,6 @@
 # Declare and initialize a list
 fruits = ["Orange", "Peach", "Banana", "Mango", "Plum"]
-print(fruits)
+print(type(fruits))
 
 # Loop through entire list of fruits
 for fruit in fruits:
@@ -8,7 +8,7 @@ for fruit in fruits:
 
 # Retrieve list items
 print(f"The fruit at position 1: {fruits[0]}")
-print(f"The fruit at end of the list: {fruits[-1]}")
+print(f"The fruit at end of the list: {fruits[-2]}")
 
 # Check length of the list
 print(f"The fruit basket currently has {len(fruits)} fruits")
