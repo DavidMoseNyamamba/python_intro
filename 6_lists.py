@@ -1,5 +1,5 @@
 # Declare and initialize a list
-fruits = ["Orange", "Peach", "Banana", "Mango", "Plum"]
+fruits = ["Orange", "Peach", "Banana", "Mango", "Plum","Strawberry"]
 print(type(fruits))
 
 # Loop through entire list of fruits
