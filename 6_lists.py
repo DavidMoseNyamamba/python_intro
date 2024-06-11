@@ -34,3 +34,7 @@ print(fruits)
 # Remove item from the end of list
 fruits.pop()
 print(fruits)
+
+# sorting items in the list in ascending order
+fruits.sort()
+print(fruits)
