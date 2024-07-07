@@ -1,6 +1,7 @@
 # Declare and initialize a list
 fruits = ["Orange", "Peach", "Banana", "Mango", "Plum"]
 print(fruits)
+print(type(fruits))
 
 # Loop through entire list of fruits
 for fruit in fruits:
@@ -32,5 +33,5 @@ fruits.pop(0)
 print(fruits)
 
 # Remove item from the end of list
-fruits.pop()
+fruits.pop(-1)
 print(fruits)
